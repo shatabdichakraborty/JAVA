@@ -22,4 +22,8 @@ public class SumOfDigits {
 		}
 }
 
+//Formula for finding the sum of digits = logbase10(n)+1
+//					=(10^x=n) + 1
 
+//int numberOfDigits = (int)Math.log10(n)+1;
+//System.out.println(numberOfDigits);
